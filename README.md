@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Lendo is a marketplace web app where users can list and rent used tech devices. It is made with Ruby on Rails and features Postgres DB, Websocket livechat, notification system, user authentication and authorization (devise and pundit), search functionality, and favouriting functionality.
